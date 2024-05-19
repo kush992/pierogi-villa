@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 	title: 'Pierogi Villa',
 	description:
 		'Pierogi Villa - A glimpse into the lives of 4 university friends living together in Poland. Fun, food, and friendship - follow their adventures!',
-	icons: 'https://img.kushbhalodi.com/images/pierogi.jpeg',
+	icons: 'https://img.kushbhalodi.com/images/pierogi.png',
 	authors: {
 		name: 'Kush Bhalodi',
 		url: 'https://kushbhalodi.com',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 		description:
 			'Pierogi Villa - A glimpse into the lives of 4 university friends living together in Poland. Fun, food, and friendship - follow their adventures!',
 		title: 'Pierogi Villa',
-		images: 'https://img.kushbhalodi.com/images/pierogi.jpeg',
+		images: 'https://img.kushbhalodi.com/images/pierogi.png',
 		creator: '@kush_115',
 	},
 };

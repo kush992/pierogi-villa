@@ -22,7 +22,7 @@ export default function Home() {
 				/>
 				<meta property='og:type' content='website' />
 				<meta property='og:url' content='https://pierogi-villa.kushbhalodi.com/' />
-				<meta property='og:image' content='https://img.kushbhalodi.com/images/pierogi.jpeg' />
+				<meta property='og:image' content='https://img.kushbhalodi.com/images/pierogi.png' />
 
 				{/* Twitter Meta Tags */}
 				<meta name='twitter:card' content='summary_large_image' />
@@ -32,7 +32,7 @@ export default function Home() {
 					content='Pierogi Villa - A glimpse into the lives of 4 university friends living together in Poland. Fun, food, and friendship - follow their adventures!'
 				/>
 				<meta name='twitter:url' content='https://kushbhalodi.com/' />
-				<meta name='twitter:image' content='https://img.kushbhalodi.com/images/pierogi.jpeg' />
+				<meta name='twitter:image' content='https://img.kushbhalodi.com/images/pierogi.png' />
 
 				{/* LinkedIn Meta Tags */}
 				<meta property='og:image:width' content='300' />
@@ -52,7 +52,7 @@ export default function Home() {
 					{/* before:absolute before:h-[30px] before:w-full before:-translate-x-1/2 before:rounded-full before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full after:translate-x-1/3 after:bg-gradient-conic after:blur-2xl after:content-[''] before:bg-gradient-to-br before:from-transparent before:to-blue-700 before:opacity-10 after:from-sky-900 after:via-[#0141ff] after:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px] */}
 					<Image
 						className='relative mix-blend-multiply'
-						src='https://img.kushbhalodi.com/images/pierogi.jpeg'
+						src='https://img.kushbhalodi.com/images/pierogi.png'
 						alt='Pierogi Villa Logo'
 						width={600}
 						height={400}
